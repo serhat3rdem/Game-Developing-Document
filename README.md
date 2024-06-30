@@ -34,7 +34,7 @@ Bu depo, oyun geliştirme süreçlerini, kullanılan teknolojileri ve araçları
 5. **Kaynakça**
 
 ### Raporu İndirin
-[Oyun Geliştirme Raporu PDF](path/to/report.pdf)
+[Oyun Geliştirme Raporu Word]([path/to/report.pdf](https://github.com/serhat3rdem/Game-Developing-Document/blob/2d82ae7983db86195a80e50295eab32083532204/Oyun%20Geli%C5%9Ftirme%20Raporu.docx))
 
 
 ---
