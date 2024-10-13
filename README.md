@@ -4,44 +4,41 @@
 
 Bu depo, oyun geliştirme süreçlerini, kullanılan teknolojileri ve araçları detaylı bir şekilde anlatan kapsamlı bir raporu içermektedir. Raporda, oyun geliştirme dünyasında başlangıçtan sona kadar tüm adımlar ele alınmış ve her bir aşama detaylı olarak incelenmiştir.
 
-## İçerik Özeti
+## İçindekiler
+1. **Giriş**
+   - Oyun Nedir?
+   - Oyun Geliştirme Nedir?
+   - Oyun Geliştiricisi Kimdir?
+   - Oyun Geliştirme Aşamaları
+   - Oyun Türleri ve Platformlar
+2. **Oyun Endüstrisi**
+   - Video Oyunları Tarihi
+   - Oyun Endüstrisinin Evrimi
+   - Oyun Endüstrisinde Pazar Analizi
+   - Oyun Geliştirme Süreci
+3. **Oyun Geliştirme Süreci**
+   - Kavram ve Tasarım
+   - Geliştirme Başlangıcı ve Planlama
+   - Oyun Motorları
+   - Grafik Araçları
+   - Proje Yönetimi ve Versiyon Kontrol Sistemleri
+   - Temel Mekanikler ve Prototip Geliştirme
+   - Grafik ve Modelleme
+   - Programlama ve Oyun Mekaniği Geliştirme
+   - Ses Tasarımı ve Müzik
+   - Test ve Kalite Güvencesi
+4. **Pazarlama ve Dağıtım**
+   - Oyun Tanıtımı ve Pazarlama Stratejileri
+   - Dağıtım Platformları
+   - Gelir Modelleri ve Monetizasyon
+5. **Kaynakça**
 
-Raporumuzda şu konular ele alınmaktadır:
+### Raporu İndirin
+[Oyun Geliştirme Raporu Word]([path/to/report.pdf](https://github.com/serhat3rdem/Game-Developing-Document/blob/2d82ae7983db86195a80e50295eab32083532204/Oyun%20Geli%C5%9Ftirme%20Raporu.docx))
 
-1. **Giriş**:
-   - Oyun geliştirme nedir?
-   - Tarihsel perspektif
-   - Günümüzde oyun endüstrisi
 
-2. **Planlama ve Tasarım**:
-   - Oyun konsepti oluşturma
-   - Hikaye yazımı ve karakter tasarımı
-   - Oyun mekaniği ve oyun tasarımı
-
-3. **Teknolojiler ve Araçlar**:
-   - Oyun motorları (Unity, Unreal Engine, Godot, vb.)
-   - Grafik ve ses araçları (Photoshop, Blender, Audacity, vb.)
-   - Programlama dilleri ve IDE'ler (C#, C++, Visual Studio, vb.)
-
-4. **Geliştirme Süreci**:
-   - Prototip oluşturma
-   - Programlama ve script yazımı
-   - Grafik ve ses entegrasyonu
-
-5. **Test ve Hata Ayıklama**:
-   - Oyun test süreci
-   - Yaygın hatalar ve çözümleri
-   - Kullanıcı geri bildirimlerinin değerlendirilmesi
-
-6. **Yayınlama ve Pazarlama**:
-   - Oyunu yayınlama platformları (Steam, itch.io, Google Play, App Store, vb.)
-   - Pazarlama stratejileri
-   - Topluluk yönetimi ve sosyal medya kullanımı
-
-7. **Güncellemeler ve Destek**:
-   - Oyunun yaşam döngüsü
-   - Güncellemeler ve yama yönetimi
-   - Müşteri desteği ve topluluk etkileşimi
+---
+Oyun geliştirme hakkında daha fazla bilgi ve kaynak için raporu okuyabilirsiniz. Herhangi bir geri bildiriminiz veya sorunuz varsa, lütfen bana ulaşın.
 
 ## Kullanım
 
@@ -56,5 +53,4 @@ Bu depo, oyun geliştirme süreçleri ve teknolojileri hakkında daha fazla bilg
 3. Bir pull request oluşturun
 
 ## Lisans
-
 Bu proje,Creative Commons Attribution 1.0 International (CC BY 4.0) Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.
